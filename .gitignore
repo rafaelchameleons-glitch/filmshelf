@@ -1,0 +1,14 @@
+#Dependências 
+node_modules/
+
+#Variáveis de ambiente e senhas
+.env
+.env.local
+
+#Arquivos de sistema do Mac
+.DS_Store
+
+#Builds e logs
+dist/
+build/
+*.log
